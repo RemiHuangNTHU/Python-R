@@ -1,7 +1,7 @@
 # 2017 IT 邦幫忙鐵人賽
 
 ## R 語言使用者的 Python 學習筆記
-
+### copy from https://github.com/yaojenkuo/learn_python_for_a_r_user.git
 ---
 
 ## 目錄
